@@ -1,0 +1,61 @@
+body {
+    font-family: sans-serif;
+    background:	#FFFFF0;
+}
+
+
+/* .card-content-area {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ } */
+
+
+.container {
+    width: 400px;
+    height: 600px;
+    /* border: 1px solid; */
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+
+.qr-code {
+    /* margin-top: 15px; */
+    width: 200px;
+    height: 200px;
+    /* border: 1px solid; */
+    margin: 20px;
+    margin-left: 80px;
+}
+
+
+#time-slot {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid;
+    border-radius: 10px;
+    /* background-color:; */
+}
+
+
+#Book-btn {
+    padding: 10px;
+    width: 350px;
+    margin-left: 10px;
+    background-color: #007fff;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+
+
+
+#qr-code {
+    margin: 20px auto;
+}
